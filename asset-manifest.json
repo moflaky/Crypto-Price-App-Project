@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Crypto-Price-App-Project/static/css/main.c302249e.css",
-    "main.js": "/Crypto-Price-App-Project/static/js/main.6087757f.js",
+    "main.css": "/Crypto-Price-App-Project/static/css/main.584944dc.css",
+    "main.js": "/Crypto-Price-App-Project/static/js/main.7e146b0e.js",
     "static/js/787.6f9a198b.chunk.js": "/Crypto-Price-App-Project/static/js/787.6f9a198b.chunk.js",
     "index.html": "/Crypto-Price-App-Project/index.html",
-    "main.c302249e.css.map": "/Crypto-Price-App-Project/static/css/main.c302249e.css.map",
-    "main.6087757f.js.map": "/Crypto-Price-App-Project/static/js/main.6087757f.js.map",
+    "main.584944dc.css.map": "/Crypto-Price-App-Project/static/css/main.584944dc.css.map",
+    "main.7e146b0e.js.map": "/Crypto-Price-App-Project/static/js/main.7e146b0e.js.map",
     "787.6f9a198b.chunk.js.map": "/Crypto-Price-App-Project/static/js/787.6f9a198b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c302249e.css",
-    "static/js/main.6087757f.js"
+    "static/css/main.584944dc.css",
+    "static/js/main.7e146b0e.js"
   ]
 }
