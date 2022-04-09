@@ -34,7 +34,7 @@ function App() {
         <input
           className="queryBox"
           type="text"
-          placeholder="Insert coin name..."
+          placeholder="Enter coin name..."
           onChange={(event) => {
             setSearchWord(event.target.value);
           }}
